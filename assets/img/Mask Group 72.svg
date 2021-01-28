@@ -1,0 +1,487 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="868" viewBox="0 0 1920 868">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eceefb;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #707070;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        fill: #ff3144;
+      }
+
+      .cls-14, .cls-16, .cls-6 {
+        opacity: 0.14;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10, .cls-16, .cls-8 {
+        fill: #4de1b8;
+      }
+
+      .cls-8 {
+        opacity: 0.61;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-10 {
+        opacity: 0.45;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-12, .cls-14, .cls-20 {
+        fill: #3a4ae9;
+      }
+
+      .cls-12 {
+        opacity: 0.12;
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-15 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-17 {
+        clip-path: url(#clip-path-7);
+      }
+
+      .cls-18 {
+        fill: #ffc04d;
+        opacity: 0.2;
+      }
+
+      .cls-19 {
+        opacity: 0.05;
+        clip-path: url(#clip-path-8);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Rectangle_239" data-name="Rectangle 239" class="cls-1" d="M0,0H1920a0,0,0,0,1,0,0V868a0,0,0,0,1,0,0H258A258,258,0,0,1,0,610V0A0,0,0,0,1,0,0Z" transform="translate(0 119)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_107" data-name="Rectangle 107" class="cls-2" width="353" height="509" transform="translate(4126 1222)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_84" data-name="Rectangle 84" class="cls-2" width="716" height="492" transform="translate(4228 685)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_83" data-name="Rectangle 83" class="cls-3" width="458" height="363" transform="translate(4200.654 112.153)"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_85" data-name="Rectangle 85" class="cls-3" width="482" height="303" transform="translate(4214 236)"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_86" data-name="Rectangle 86" class="cls-2" width="453" height="296" transform="translate(4251 161)"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_106" data-name="Rectangle 106" class="cls-3" width="242" height="329" transform="translate(2056 -577)"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect class="cls-4" width="405" height="278"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_72" data-name="Mask Group 72" class="cls-5" transform="translate(0 -119)">
+    <ellipse id="Ellipse_30" data-name="Ellipse 30" class="cls-6" cx="144.5" cy="115.5" rx="144.5" ry="115.5" transform="translate(1089 268)"/>
+    <g id="Mask_Group_9" data-name="Mask Group 9" class="cls-7" transform="translate(-2559 -777)">
+      <circle id="Ellipse_23" data-name="Ellipse 23" class="cls-8" cx="167" cy="167" r="167" transform="translate(4267 1312)"/>
+    </g>
+    <g id="Mask_Group_5" data-name="Mask Group 5" class="cls-9" transform="translate(5364 1656) rotate(180)">
+      <ellipse id="Ellipse_22" data-name="Ellipse 22" class="cls-6" cx="292" cy="234.5" rx="292" ry="234.5" transform="translate(4285 550)"/>
+    </g>
+    <ellipse id="Ellipse_20" data-name="Ellipse 20" class="cls-10" cx="174" cy="235.5" rx="174" ry="235.5" transform="translate(263.38 434) rotate(34)"/>
+    <g id="Mask_Group_4" data-name="Mask Group 4" class="cls-11" transform="translate(-3985.653 18.847)">
+      <ellipse id="Ellipse_25" data-name="Ellipse 25" class="cls-12" cx="166.642" cy="168.491" rx="166.642" ry="168.491" transform="translate(4201 170.08) rotate(-51)"/>
+    </g>
+    <g id="Mask_Group_6" data-name="Mask Group 6" class="cls-13" transform="translate(-2725 -105)">
+      <ellipse id="Ellipse_24" data-name="Ellipse 24" class="cls-14" cx="167" cy="118.5" rx="167" ry="118.5" transform="translate(4264 197)"/>
+    </g>
+    <g id="Mask_Group_7" data-name="Mask Group 7" class="cls-15" transform="translate(-3517 -30)">
+      <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-16" cx="167" cy="167" r="167" transform="translate(4293 72)"/>
+    </g>
+    <g id="Mask_Group_8" data-name="Mask Group 8" class="cls-17" transform="translate(-2056 820)">
+      <path id="Path_441" data-name="Path 441" class="cls-18" d="M120,0c66.274,0,120,51.935,120,116S186.274,232,120,232,0,180.065,0,116,53.726,0,120,0Z" transform="translate(1936 -541)"/>
+    </g>
+    <path id="Rectangle_82" data-name="Rectangle 82" class="cls-1" d="M0,0H1920a0,0,0,0,1,0,0V868a0,0,0,0,1,0,0H258A258,258,0,0,1,0,610V0A0,0,0,0,1,0,0Z" transform="translate(0 119)"/>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-19" transform="translate(31.078 474.656) scale(0.719 1)">
+      <g transform="translate(-954 -2242)">
+        <circle id="Ellipse_37" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -2242)">
+        <circle id="Ellipse_37-2" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -2242)">
+        <circle id="Ellipse_37-3" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -2242)">
+        <circle id="Ellipse_37-4" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -2242)">
+        <circle id="Ellipse_37-5" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -2242)">
+        <circle id="Ellipse_37-6" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -2242)">
+        <circle id="Ellipse_37-7" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -2242)">
+        <circle id="Ellipse_37-8" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -2242)">
+        <circle id="Ellipse_37-9" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -2242)">
+        <circle id="Ellipse_37-10" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -2242)">
+        <circle id="Ellipse_37-11" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -2242)">
+        <circle id="Ellipse_37-12" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -2242)">
+        <circle id="Ellipse_37-13" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-954 -2210)">
+        <circle id="Ellipse_37-14" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -2210)">
+        <circle id="Ellipse_37-15" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -2210)">
+        <circle id="Ellipse_37-16" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -2210)">
+        <circle id="Ellipse_37-17" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -2210)">
+        <circle id="Ellipse_37-18" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -2210)">
+        <circle id="Ellipse_37-19" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -2210)">
+        <circle id="Ellipse_37-20" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -2210)">
+        <circle id="Ellipse_37-21" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -2210)">
+        <circle id="Ellipse_37-22" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -2210)">
+        <circle id="Ellipse_37-23" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -2210)">
+        <circle id="Ellipse_37-24" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -2210)">
+        <circle id="Ellipse_37-25" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -2210)">
+        <circle id="Ellipse_37-26" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-954 -2178)">
+        <circle id="Ellipse_37-27" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -2178)">
+        <circle id="Ellipse_37-28" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -2178)">
+        <circle id="Ellipse_37-29" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -2178)">
+        <circle id="Ellipse_37-30" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -2178)">
+        <circle id="Ellipse_37-31" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -2178)">
+        <circle id="Ellipse_37-32" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -2178)">
+        <circle id="Ellipse_37-33" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -2178)">
+        <circle id="Ellipse_37-34" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -2178)">
+        <circle id="Ellipse_37-35" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -2178)">
+        <circle id="Ellipse_37-36" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -2178)">
+        <circle id="Ellipse_37-37" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -2178)">
+        <circle id="Ellipse_37-38" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -2178)">
+        <circle id="Ellipse_37-39" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-954 -2146)">
+        <circle id="Ellipse_37-40" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -2146)">
+        <circle id="Ellipse_37-41" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -2146)">
+        <circle id="Ellipse_37-42" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -2146)">
+        <circle id="Ellipse_37-43" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -2146)">
+        <circle id="Ellipse_37-44" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -2146)">
+        <circle id="Ellipse_37-45" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -2146)">
+        <circle id="Ellipse_37-46" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -2146)">
+        <circle id="Ellipse_37-47" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -2146)">
+        <circle id="Ellipse_37-48" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -2146)">
+        <circle id="Ellipse_37-49" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -2146)">
+        <circle id="Ellipse_37-50" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -2146)">
+        <circle id="Ellipse_37-51" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -2146)">
+        <circle id="Ellipse_37-52" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-954 -2114)">
+        <circle id="Ellipse_37-53" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -2114)">
+        <circle id="Ellipse_37-54" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -2114)">
+        <circle id="Ellipse_37-55" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -2114)">
+        <circle id="Ellipse_37-56" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -2114)">
+        <circle id="Ellipse_37-57" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -2114)">
+        <circle id="Ellipse_37-58" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -2114)">
+        <circle id="Ellipse_37-59" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -2114)">
+        <circle id="Ellipse_37-60" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -2114)">
+        <circle id="Ellipse_37-61" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -2114)">
+        <circle id="Ellipse_37-62" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -2114)">
+        <circle id="Ellipse_37-63" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -2114)">
+        <circle id="Ellipse_37-64" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -2114)">
+        <circle id="Ellipse_37-65" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-954 -2082)">
+        <circle id="Ellipse_37-66" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -2082)">
+        <circle id="Ellipse_37-67" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -2082)">
+        <circle id="Ellipse_37-68" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -2082)">
+        <circle id="Ellipse_37-69" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -2082)">
+        <circle id="Ellipse_37-70" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -2082)">
+        <circle id="Ellipse_37-71" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -2082)">
+        <circle id="Ellipse_37-72" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -2082)">
+        <circle id="Ellipse_37-73" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -2082)">
+        <circle id="Ellipse_37-74" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -2082)">
+        <circle id="Ellipse_37-75" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -2082)">
+        <circle id="Ellipse_37-76" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -2082)">
+        <circle id="Ellipse_37-77" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -2082)">
+        <circle id="Ellipse_37-78" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-954 -2050)">
+        <circle id="Ellipse_37-79" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -2050)">
+        <circle id="Ellipse_37-80" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -2050)">
+        <circle id="Ellipse_37-81" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -2050)">
+        <circle id="Ellipse_37-82" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -2050)">
+        <circle id="Ellipse_37-83" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -2050)">
+        <circle id="Ellipse_37-84" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -2050)">
+        <circle id="Ellipse_37-85" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -2050)">
+        <circle id="Ellipse_37-86" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -2050)">
+        <circle id="Ellipse_37-87" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -2050)">
+        <circle id="Ellipse_37-88" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -2050)">
+        <circle id="Ellipse_37-89" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -2050)">
+        <circle id="Ellipse_37-90" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -2050)">
+        <circle id="Ellipse_37-91" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-954 -2018)">
+        <circle id="Ellipse_37-92" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -2018)">
+        <circle id="Ellipse_37-93" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -2018)">
+        <circle id="Ellipse_37-94" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -2018)">
+        <circle id="Ellipse_37-95" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -2018)">
+        <circle id="Ellipse_37-96" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -2018)">
+        <circle id="Ellipse_37-97" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -2018)">
+        <circle id="Ellipse_37-98" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -2018)">
+        <circle id="Ellipse_37-99" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -2018)">
+        <circle id="Ellipse_37-100" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -2018)">
+        <circle id="Ellipse_37-101" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -2018)">
+        <circle id="Ellipse_37-102" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -2018)">
+        <circle id="Ellipse_37-103" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -2018)">
+        <circle id="Ellipse_37-104" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-954 -1986)">
+        <circle id="Ellipse_37-105" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-922 -1986)">
+        <circle id="Ellipse_37-106" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-890 -1986)">
+        <circle id="Ellipse_37-107" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-858 -1986)">
+        <circle id="Ellipse_37-108" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-826 -1986)">
+        <circle id="Ellipse_37-109" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-794 -1986)">
+        <circle id="Ellipse_37-110" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-762 -1986)">
+        <circle id="Ellipse_37-111" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-730 -1986)">
+        <circle id="Ellipse_37-112" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-698 -1986)">
+        <circle id="Ellipse_37-113" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-666 -1986)">
+        <circle id="Ellipse_37-114" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-634 -1986)">
+        <circle id="Ellipse_37-115" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-602 -1986)">
+        <circle id="Ellipse_37-116" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+      <g transform="translate(-570 -1986)">
+        <circle id="Ellipse_37-117" data-name="Ellipse 37" class="cls-20" cx="6" cy="6" r="6" transform="translate(954 2242)"/>
+      </g>
+    </g>
+  </g>
+</svg>
