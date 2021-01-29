@@ -173,13 +173,23 @@ section.hero-area {
 }
 
 .work-item {
-    box-shadow: 0px 0px 40px #7b82a787;
+    /* box-shadow: 0px 0px 40px #7b82a787; */
     border-radius: 15px;
     margin-bottom: 30px;
 }
 
 .work-content {
     padding: 0 10% 10% 10%;
+}
+
+.work-content h4 {
+    font-size: 26px;
+    color: #091030ab;
+    font-weight: 500;
+}
+
+.work-item:hover {
+    box-shadow: 0px 0px 30px #9eaeff;
 }
 
 .work-title h3 {
@@ -191,7 +201,7 @@ section.hero-area {
 
 .work-image {
     width: 100%;
-    height: 260px;
+    height: 360px;
     padding: 10%;
 }
 
