@@ -217,9 +217,9 @@ div#typed_1 h1 {
 .work-item {
     box-shadow: 0px 0px 90px 0px #7b82a74d;
     border-radius: 15px;
-    margin-bottom: 30px;
-    overflow: hidden;
     margin: 10px;
+    margin-bottom: 40px;
+    overflow: hidden;
 }
 
 .work-content {
@@ -852,7 +852,7 @@ footer.footer-area {
         padding: 30px 0;
     }
     .work-content h4 {
-        font-size: 24px;
+        font-size: 18px;
     }
     .navbar-demo-btn {
         display: none;
