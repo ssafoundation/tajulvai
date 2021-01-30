@@ -102,6 +102,7 @@ header.header-area {
     position: absolute;
     right: 0;
     display: none;
+    top: -12px;
 }
 
 .navbar-menu-mobile-btn span {
