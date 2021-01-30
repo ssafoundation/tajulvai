@@ -178,7 +178,7 @@ section.hero-area {
     top: -96px;
     width: 168%;
     height: 50px;
-    background: linear-gradient( 0deg, #cb7de326, transparent);
+    background: linear-gradient( 0deg, hsl(233, 79%, 74%, 19%), transparent);
     border-radius: 10px;
 }
 
