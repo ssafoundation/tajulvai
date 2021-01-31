@@ -427,6 +427,7 @@ div#typed_1 h1 {
     border-radius: 15px;
     border: none;
     box-shadow: 0px 0px 90px 0px #7b82a74d;
+    padding: 15px 20px;
 }
 
 .contact-left p {
@@ -439,6 +440,10 @@ div#typed_1 h1 {
     color: #fff;
     font-size: 55px;
     font-family: 'Circular Std Book';
+}
+
+::placeholder {
+    color: hsl(229, 68%, 11%, 25%);
 }
 
 
