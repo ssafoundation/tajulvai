@@ -11,7 +11,7 @@ $(document).ready(function() {
 
     // animated typed text
     var typed = new Typed('#typed', {
-        strings: ["Prevent<br /> Falls", "Manage <br />Bedsores", "Ensure hand <br />wash compliance"],
+        strings: ["Prevent Falls", "Manage Bedsores", "Ensure hand <br />wash compliance"],
         smartBackspace: true, // Default value
         typeSpeed: 150,
         backSpeed: 50,
