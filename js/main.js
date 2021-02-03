@@ -6,25 +6,19 @@ $(document).ready(function() {
     $(".slider-image").slick({
         slidesToShow: 1,
         autoplay: true,
-        autoplaySpeed: 3000,
+        autoplaySpeed: 4500,
     });
-    $(".text-typed-wrap").slick({
-        slidesToShow: 1,
-        autoplay: true,
-        autoplaySpeed: 3000,
+
+    // animated typed text
+    var typed = new Typed('#typed', {
+        strings: ["Prevent<br /> Falls", "Manage <br />Bedsores", "Ensure hand <br />wash compliance"],
+        smartBackspace: true, // Default value
+        typeSpeed: 150,
+        backSpeed: 50,
+        backDelay: 1500,
+        loop: true
     });
-    $('#typed_1').t({
-        speed: 35,
-        repeat: true,
-    });
-    $('#typed_2').t({
-        speed: 35,
-        repeat: true,
-    });
-    $('#typed_3').t({
-        speed: 35,
-        repeat: true,
-    });
+
 
 
 });
